@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dmitrii Velibekov
+- 👀 I’m interested in Machine Learning, Data Science
+- 🌱 I’m currently enhancing knowledge on neural networks (Pytorch)
+- 📫 How to reach me https://t.me/Meffazm, meridict@gmail.com
